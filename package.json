@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "cd infixrupee-frontend/infixrupee && next dev",
-    "build": "cd infixrupee-frontend/infixrupee && next build",
+    "build": "cd infixrupee-frontend/infixrupee && next build", 
     "start": "cd infixrupee-frontend/infixrupee && next start",
     "lint": "cd infixrupee-frontend/infixrupee && next lint"
   },
