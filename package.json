@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "dev": "cd infixrupee-frontend/infixrupee && next dev",
+    "build": "cd infixrupee-frontend/infixrupee && next build",
+    "start": "cd infixrupee-frontend/infixrupee && next start",
+    "lint": "cd infixrupee-frontend/infixrupee && next lint"
   },
   "dependencies": {
     "next": "^13.4.7",
