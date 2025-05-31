@@ -1,4 +1,3 @@
-
 'use client';
 import { useState } from 'react';
 
@@ -78,7 +77,7 @@ export default function AuthForm({ isSignup = false }: AuthFormProps) {
             </>
           ) : (
             <>
-              Don’t have an account? <a href="/signup" className="underline">Sign up</a>
+              Don't have an account? <a href="/signup" className="underline">Sign up</a>
             </>
           )}
         </div>
