@@ -73,7 +73,7 @@ export default function AuthForm({ isSignup = false }: AuthFormProps) {
         <div className="text-center text-sm">
           {isSignup ? (
             <>
-              Already have an account? <a href="/login" className="underline">Sign in</a>
+              Already have an account? <a href="/login\" className="underline">Sign in</a>
             </>
           ) : (
             <>
